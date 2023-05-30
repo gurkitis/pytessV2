@@ -1,0 +1,8 @@
+config.ini
+data/abby/*
+data/images/*
+data/results/abby/*
+data/results/tess/*
+data/results/tests/*
+.idea
+__pycache__
